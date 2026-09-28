@@ -1,0 +1,13 @@
+# Секреты — в git НЕ попадают
+.env
+
+# Локальное состояние (создаётся само, на хостинге живёт в Volume)
+data/state.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
