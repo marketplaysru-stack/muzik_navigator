@@ -1,6 +1,0 @@
-aiogram>=3.4,<4
-apscheduler>=3.10,<4
-requests>=2.31
-feedparser>=6.0
-python-dotenv>=1.0
-aiohttp-socks>=0.9
